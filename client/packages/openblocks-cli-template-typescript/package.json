@@ -15,7 +15,7 @@
     }
   },
   "dependencies": {
-    "openblocks-cli": "workspace:^",
+    "openblocks-cli": "0.0.17",
     "openblocks-sdk": "workspace:^"
   },
   "devDependencies": {
