@@ -15,8 +15,8 @@
     }
   },
   "dependencies": {
-    "openblocks-cli": "workspace:^",
-    "openblocks-sdk": "workspace:^"
+    "openblocks-cli": "0.0.17",
+    "openblocks-sdk": "0.0.20"
   },
   "devDependencies": {
     "typescript": "^4.8.4"
